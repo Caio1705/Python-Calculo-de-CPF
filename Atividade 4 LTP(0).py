@@ -52,6 +52,6 @@ if (len(cpf9) == 9) and (len(cpf2) == 2):
         print("CPF correto: {}".format(cpfc))
     
 else:
-    print("Esse CPF é inválido")
+    print("CPF inválido")
     
 print()
